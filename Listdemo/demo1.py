@@ -14,7 +14,7 @@ print(lst1[0::2])
 print(lst1[::-1])
 print(lst1[4:1:-1])
 #判断指定元素在列表中是否存在
-print(3 in lst)
+print('修改插入' in lst)
 print(90 in lst1)
 #遍历列表元素
 for i in lst:
